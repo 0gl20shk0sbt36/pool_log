@@ -70,7 +70,7 @@ target_include_directories(your_target PRIVATE path/to/pool_log/include)
 ## 作为 MemoryPool 插件
 
 pool_log 内置了适配层，可接入 MemoryPool 的插件事件系统。
-详见 [MemoryPool 插件系统](https://github.com/your-org/MemoryPool)。
+详见 [MemoryPool 插件系统](https://github.com/0gl20shk0sbt36/MemoryPool)。
 
 MemoryPool 中的目录布局：
 

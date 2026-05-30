@@ -70,7 +70,7 @@ target_include_directories(your_target PRIVATE path/to/pool_log/include)
 ## As a MemoryPool Plugin
 
 pool_log ships a plugin adapter that hooks into MemoryPool's event system.
-See [MemoryPool Plugin System](https://github.com/your-org/MemoryPool) for details.
+See [MemoryPool Plugin System](https://github.com/0gl20shk0sbt36/MemoryPool) for details.
 
 Directory layout in MemoryPool:
 
